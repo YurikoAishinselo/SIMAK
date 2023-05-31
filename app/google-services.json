@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850392587867",
+    "project_id": "simak-9d742",
+    "storage_bucket": "simak-9d742.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850392587867:android:a02a0325504d80658ae97e",
+        "android_client_info": {
+          "package_name": "com.aps.simak13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXyVo8cNiumooP3DpPCUqRniPOZQFZ2Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

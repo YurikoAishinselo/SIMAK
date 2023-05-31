@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_navigation"
+    app:startDestination="@id/homes">
+    <fragment
+        android:id="@+id/homes"
+        android:name="com.aps.simak13.home"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/academic"
+        android:name="com.aps.simak13.academic"
+        android:label="fragment_academic"
+        tools:layout="@layout/fragment_academic" />
+    <fragment
+        android:id="@+id/profile"
+        android:name="com.aps.simak13.profile"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/payment"
+        android:name="com.aps.simak13.payment"
+        android:label="fragment_payment"
+        tools:layout="@layout/fragment_payment" />
+</navigation>
